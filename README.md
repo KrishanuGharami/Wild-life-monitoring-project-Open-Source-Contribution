@@ -35,7 +35,7 @@ Substations often experience power disruptions due to the interference of specif
 ---
 
 #### **📥 How to Get Involved**  
-1. **Clone the Repository**: Start by cloning this repository to your local environment.  
+1. **Clone the Repository**: Start by cloning this repository to your local environment. (https://github.com/KrishanuGharami/Wild-life-monitoring-project-Open-Source-Contribution.git)  
 2. **Explore the Issues**: Check out open issues for tasks you can contribute to.  
 3. **Submit Your Contributions**: Fork the repo, make your changes, and submit a pull request.  
 4. **Join Discussions**: Collaborate with the community by participating in discussions and sharing ideas.  
