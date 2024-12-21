@@ -43,7 +43,7 @@ Substations often experience power disruptions due to the interference of specif
 ---
 
 #### **🔗 Resources**  
-- Project Documentation: https://drive.google.com/file/d/1oC9hI4wxMrfRaFsSxbCH_EIBVSv1KrnG/view?usp=sharing
+- Project Documentation: https://drive.google.com/file/d/1eXcIUcOZE7mhRXsQlyi3ttl6lwKpjz0W/view?usp=sharing
 - Contribution Guide: [Link to Guide]  
 - Project Updates: [Link to Updates/News]  
 
