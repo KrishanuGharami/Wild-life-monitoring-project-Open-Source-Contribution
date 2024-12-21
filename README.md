@@ -1,0 +1,2 @@
+# Wild life monitoring project (Open-Source Contribution)
+ Welcome to the Animal and Bird Interference Detection System repository! This open-source project aims to tackle a critical issue in power infrastructure: minimizing power outages caused by animal and bird interference in substations. By leveraging AI and real-time video analysis, this system helps identify potential threats and prevent outages, ensuring a more reliable power supply.
