@@ -56,4 +56,3 @@ Let’s work together to revolutionize power reliability while promoting coexist
 
 ---  
 
-**#OpenSource #AIForGood #MachineLearning #WildlifeConservation #EnergyInfrastructure**  
